@@ -20,11 +20,13 @@ The complete dataset `All_Datasets.jsonl` is available upon request:
 ![Figure2](https://raw.githubusercontent.com/KJOrigin/PG-Bench/refs/heads/main/Pictures/figure2.png)
 
 ## 📖 Usage
-You can implement our model according to the following steps:
+You can implement our methods according to the following steps:
 
-1.Install the necessary packages. Run the command:
+1. Install the necessary packages. Run the command:
 
 ﻿`pip install -r requirements.txt`
+
+2. Install Swift to deploy models and run our code using Python.
  
 ## 📬 Contact
 
