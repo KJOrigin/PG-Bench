@@ -20,5 +20,5 @@ The complete dataset `All_Datasets.jsonl` is available upon request:
 ## 📬 Contact
 
 **Maintainer**:  
-👤 **Lkjorigin**  
+👤 **KJOrigin**  
 📧 Email: [lkjorigin@foxmail.com](mailto:lkjorigin@foxmail.com)  
