@@ -1,5 +1,5 @@
 # CCPG Benchmark (PG-Bench) & KEGA 
-This repository serves as an open-source repository for the CCPG benchmark (PG-Bench) and KEGA, housing open-source datasets, model weights, and source code.
+This repository serves as an open-source repository for the CCPG benchmark (PG-Bench) and KEGA, housing open-source datasets, model weights, and source code, and is the implementation of the paper "Advancing Conversation-based Chinese Patient Guidance with A New Benchmark and Knowledge-Evolvable Guidance Assistant".
 ![Figure1](https://raw.githubusercontent.com/KJOrigin/PG-Bench/refs/heads/main/Pictures/figure1.png)
 
 
@@ -21,11 +21,6 @@ The complete dataset `All_Datasets.jsonl` is available upon request:
 
 ## 📖 Usage
 
-## 📊 Experimental Results
-![Table2](https://raw.githubusercontent.com/KJOrigin/PG-Bench/refs/heads/main/Pictures/table2.png)
-![Table3](https://raw.githubusercontent.com/KJOrigin/PG-Bench/refs/heads/main/Pictures/table3.png)
-![Table4](https://raw.githubusercontent.com/KJOrigin/PG-Bench/refs/heads/main/Pictures/table4.png)
-![Table5](https://raw.githubusercontent.com/KJOrigin/PG-Bench/refs/heads/main/Pictures/table5.png)
 ## 📬 Contact
 
 **Maintainer**:  
