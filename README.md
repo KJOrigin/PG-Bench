@@ -3,7 +3,7 @@
 This repository serves as an open-source repository for the CCPG benchmark (PG-Bench) and KEGA, housing open-source datasets, model weights, and source code.
 
 ## 📂 Dataset Overview
-![Figure1]("main/Pictures/table1.png") 
+![Figure1]("https://raw.githubusercontent.com/KJOrigin/PG-Bench/refs/heads/main/Pictures/table1.png")
 ### PG-Bench Dataset
 - **General.jsonl** - General Hospital Patient-Doctor Dialogue Guidance Dataset
 - **Gynecological.jsonl** - Gynecological Specialty Hospital Patient-Doctor Dialogue Guidance Dataset
