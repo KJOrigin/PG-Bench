@@ -21,7 +21,9 @@ The complete dataset `All_Datasets.jsonl` is available upon request:
 
 ## 📖 Usage
 You can implement our model according to the following steps:
-﻿`pip install -r requirements.txt`
+1.Install the necessary packages. Run the command:
+﻿```bash
+ pip install -r requirements.txt```
 ## 📬 Contact
 
 **Maintainer**:  
