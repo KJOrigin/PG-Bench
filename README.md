@@ -4,7 +4,7 @@ This repository serves as an open-source repository for the CCPG benchmark (PG-B
 
 ## 📂 Dataset Overview
 
-### Chinese Medical Patient-Doctor Dialogue Guidance Dataset
+### PG-Bench Dataset
 - **General.jsonl** - General Hospital Patient-Doctor Dialogue Guidance Dataset
 - **Gynecological.jsonl** - Gynecological Specialty Hospital Patient-Doctor Dialogue Guidance Dataset
 - **Pediatric.jsonl** - Pediatric Specialty Hospital Patient-Doctor Dialogue Guidance Dataset  
