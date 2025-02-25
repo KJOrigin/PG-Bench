@@ -19,7 +19,11 @@ The complete dataset `All_Datasets.jsonl` is available upon request:
 ## 🧠 KEGA Framework
 ![Figure2](https://raw.githubusercontent.com/KJOrigin/PG-Bench/refs/heads/main/Pictures/figure2.png)
 
-
+## 📊 Experimental Results
+![Table2](https://raw.githubusercontent.com/KJOrigin/PG-Bench/refs/heads/main/Pictures/table2.png)
+![Table3](https://raw.githubusercontent.com/KJOrigin/PG-Bench/refs/heads/main/Pictures/table3.png)
+![Table4](https://raw.githubusercontent.com/KJOrigin/PG-Bench/refs/heads/main/Pictures/table4.png)
+![Table5](https://raw.githubusercontent.com/KJOrigin/PG-Bench/refs/heads/main/Pictures/table5.png)
 ## 📬 Contact
 
 **Maintainer**:  
