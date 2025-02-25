@@ -4,13 +4,13 @@ This repository serves as an open-source repository for the CCPG benchmark (PG-B
 
 ## 📂 Dataset Overview
 
-### 中文医患对话导诊数据集
-- **General.jsonl** - 综合医院医患对话导诊数据集
-- **Gynecological.jsonl** - 妇科专科医院医患对话导诊数据集
-- **Pediatric.jsonl** - 儿科专科医院医患对话导诊数据集  
-- **Stomatological.jsonl** - 口腔专科医院医患对话导诊数据集
-- **TCM.jsonl** - 中医专科医院医患对话导诊数据集
+### Chinese Medical Patient-Doctor Dialogue Guidance Dataset
+- **General.jsonl** - General Hospital Patient-Doctor Dialogue Guidance Dataset
+- **Gynecological.jsonl** - Gynecological Specialty Hospital Patient-Doctor Dialogue Guidance Dataset
+- **Pediatric.jsonl** - Pediatric Specialty Hospital Patient-Doctor Dialogue Guidance Dataset  
+- **Stomatological.jsonl** - Stomatological Specialty Hospital Patient-Doctor Dialogue Guidance Dataset
+- **TCM.jsonl** - TCM Specialty Hospital Patient-Doctor Dialogue Guidance Dataset
 
-⚠️ **完整数据集获取**  
-完整整合数据集 `All_Datasets.jsonl` 需通过邮件申请获取：  
-📧 **联系邮箱**: [lkjorigin@foxmail.com](mailto:lkjorigin@foxmail.com)
+⚠️ **Full Dataset Access**  
+The complete dataset `All_Datasets.jsonl` is available upon request:    
+📧 **Contact**: [lkjorigin@foxmail.com]
