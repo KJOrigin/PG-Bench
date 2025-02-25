@@ -20,7 +20,8 @@ The complete dataset `All_Datasets.jsonl` is available upon request:
 ![Figure2](https://raw.githubusercontent.com/KJOrigin/PG-Bench/refs/heads/main/Pictures/figure2.png)
 
 ## 📖 Usage
-
+You can implement our model according to the following steps:
+﻿`pip install -r requirements.txt`
 ## 📬 Contact
 
 **Maintainer**:  
