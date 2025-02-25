@@ -1,6 +1,7 @@
 # CCPG Benchmark (PG-Bench) & KEGA 
-![Figure1](https://raw.githubusercontent.com/KJOrigin/PG-Bench/refs/heads/main/Pictures/figure1.png)
 This repository serves as an open-source repository for the CCPG benchmark (PG-Bench) and KEGA, housing open-source datasets, model weights, and source code.
+![Figure1](https://raw.githubusercontent.com/KJOrigin/PG-Bench/refs/heads/main/Pictures/figure1.png)
+
 
 ## 📂 Dataset Overview
 ![Table1](https://raw.githubusercontent.com/KJOrigin/PG-Bench/refs/heads/main/Pictures/table1.png)
