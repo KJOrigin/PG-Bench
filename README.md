@@ -25,12 +25,6 @@ You can implement our methods according to the following steps:
 1. Install the necessary packages. Run the command: `pip install -r requirements.txt`
 
 2. Install Swift to deploy models and run our code using Python.
- 
-## 📬 Contact
-
-**Maintainer**:  
-👤 **KJOrigin**  
-📧 Email: [lkjorigin@foxmail.com](mailto:lkjorigin@foxmail.com)  
 
 
 🌟 Contributions and suggestions are welcome!
