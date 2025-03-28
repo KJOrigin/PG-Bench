@@ -22,7 +22,7 @@ The complete dataset `All_Datasets.jsonl` is available upon request.
 ## 📖 Usage
 You can implement our methods according to the following steps:
 
-1. Install the necessary packages. Run the command: `pip install -r requirements.txt`
+1. Install the necessary packages. Run the command: `conda create --name <你的环境名> --file requirements.txt`
 
 2. Install Swift to deploy models and run our code using Python.
 
