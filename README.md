@@ -17,7 +17,7 @@ This repository serves as an open-source repository for the CCPG benchmark (PG-B
 The complete dataset `All_Datasets.jsonl` is available upon request.
 
 ## 🧠 KEGA Framework
-![Figure2](https://raw.githubusercontent.com/KJOrigin/PG-Bench/refs/heads/main/Pictures/figure2.png)
+![Figure2](< img src="Pictures/figure2.png" alt="logo" border="0">)
 
 ## 📖 Usage
 You can implement our methods according to the following steps:
