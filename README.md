@@ -17,7 +17,7 @@ This repository serves as an open-source repository for the CCPG benchmark (PG-B
 The complete dataset `All_Datasets.jsonl` is available upon request.
 
 ## 🧠 KEGA Framework
-< img src="doc/Eval4DiRec.png" alt="logo" border="0">
+< img src="Pictures/figure2.png" alt="logo" border="0">
 
 ## 📖 Usage
 You can implement our methods according to the following steps:
