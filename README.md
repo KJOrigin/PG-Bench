@@ -20,11 +20,11 @@ This repository serves as an open-source repository for the **CCPG benchmark (PG
 <img src="Pictures/figure2.png" alt="figure2" border="0">
 
 ## 📊 Benchmark Results
-For more detailed benchmark results, please[Click here]()
+For more detailed benchmark results, please [Click here]()
 <img src="Pictures/table2.png" alt="table2" border="0">
 
 ## ✨ KEGA Performance
-For more detailed performance results, please[Click here]()
+For more detailed performance results, please [Click here]()
 <img src="Pictures/table3.png" alt="table3" border="0">
 <img src="Pictures/table4.png" alt="table4" border="0">
 <img src="Pictures/table5.png" alt="table5" border="0">
@@ -36,7 +36,7 @@ You can implement our methods according to the following steps:
    ```
    pip install -r requirements.txt
    ```
-2. Install Swift to deploy models. Please [Click here](https://swift.readthedocs.io/zh-cn/latest/index.html)
+2. Install Swift to deploy models. Please [Click here] (https://swift.readthedocs.io/zh-cn/latest/index.html)
 3. Run our code using Python.
    
    Train the KEGA
