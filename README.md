@@ -8,7 +8,7 @@ This repository serves as an open-source repository for the **CCPG benchmark (PG
 
 ## 📂 Dataset Overview
 <img src="Pictures/table1.png" alt="table1" border="0">
-
+<img src="Pictures/figure3.png" alt="figure3" border="0">
 ### PG-Bench Dataset
 - **General.jsonl** - General Hospital Patient-Doctor Dialogue Guidance Dataset
 - **Gynecological.jsonl** - Gynecological Specialty Hospital Patient-Doctor Dialogue Guidance Dataset
