@@ -37,19 +37,19 @@ You can implement our methods according to the following steps:
 2. Install Swift to deploy models. [Click here](https://swift.readthedocs.io/zh-cn/latest/index.html)
 3. Run our code using Python.
    
-   (1) Train the KEGA
+   Train the KEGA
    ```
-   pip install -r requirements.txt
+   python KEGA_train.py
    ```
-   (2) Evaluate the KEGA
+   Evaluate the KEGA
    ```
    python KEGA_test.py
    ```
-   (3) Zero-Shot Testing
+   Zero-Shot Testing
    ```
    python zeroshot.py
    ```
-   (4) Few-Shot Testing
+   Few-Shot Testing
    ```
    python fewshot.py
    ```
