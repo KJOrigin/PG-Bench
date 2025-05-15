@@ -16,7 +16,7 @@ This repository serves as an open-source repository for the **CCPG benchmark (PG
 - **Stomatological.jsonl** - Stomatological Specialty Hospital Patient-Doctor Dialogue Guidance Dataset
 - **TCM.jsonl** - TCM Specialty Hospital Patient-Doctor Dialogue Guidance Dataset
 
-## 🧠 KEGA Framework
+## 🧠 KEGA Architecture
 <img src="Pictures/figure2.png" alt="figure2" border="0">
 
 ## 📊 Benchmark Results
@@ -38,4 +38,4 @@ You can implement our methods according to the following steps:
 3. Run our code using Python.
 
 
-🌟 Contributions and suggestions are welcome!
+## 🌟 Contributions and suggestions are welcome!
