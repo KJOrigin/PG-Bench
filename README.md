@@ -34,7 +34,8 @@ You can implement our methods according to the following steps:
    ```
    pip install -r requirements.txt
    ```
-2. Install Swift to deploy models and run our code using Python.
+2. Install Swift to deploy models.
+3. Run our code using Python.
 
 
 🌟 Contributions and suggestions are welcome!
