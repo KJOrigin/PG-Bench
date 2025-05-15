@@ -36,6 +36,7 @@ You can implement our methods according to the following steps:
    ```
 2. Install Swift to deploy models. [Click here](https://swift.readthedocs.io/zh-cn/latest/index.html)
 3. Run our code using Python.
+   
    (1) Train the KEGA
    ```
    pip install -r requirements.txt
