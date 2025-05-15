@@ -1,19 +1,6 @@
-import time
-import json
-from langchain_core.documents import Document
-from langchain_core.output_parsers import StrOutputParser
-from langchain_core.runnables import RunnablePassthrough
-from langchain_openai import ChatOpenAI
-from langchain_huggingface import HuggingFaceEmbeddings
-from langchain_chroma import Chroma
-from langchain_text_splitters import RecursiveCharacterTextSplitter
-from langchain_core.prompts import ChatPromptTemplate
-from tqdm import tqdm  
-
-
 start = time.time()
 llm = ChatOpenAI(
-    model="your_model_name",
+    model="your_model",
     temperature=0,
     max_tokens=1024,
     timeout=60,
@@ -39,11 +26,11 @@ system_prompt = (
     "1. 输出只能包含候选科室列表中的表项，不要赘述！\n"
     "2. 答案可能包含一个或多个科室，科室之间用\"|\"分隔。"
     "\n\n"
-    "这是从案例库中检索出来的相关内容为"
+    "这是从经验库中检索出来的相关内容为"
     "{context1}\n"
     "这是从反思库中检索出来的相关内容为"
     "{context2}\n"
-    "这是从外部知识库中检索出来的相关内容为"
+    "这是从医学外部知识库中检索出来的相关内容为"
     "{context3}\n"
 )
 prompt = ChatPromptTemplate.from_messages([("system", system_prompt), ("user", "{query}")])
@@ -78,26 +65,17 @@ with open(jsonl_file_path, 'r') as file:
             line = line.strip()  
             if not line:  
                 continue
-
             data = json.loads(line)  
             query = data.get("question")  
             answer = data.get("answer")  
-
             if query and answer:
-                
                 res = rag_chain.invoke(query)
-
-                
                 res_cleaned = " ".join(res.split())  
                 answer_cleaned = " ".join(answer.split()) 
-
                 y_true.append(answer_cleaned)
                 y_pred.append(res_cleaned)
-
-                
                 true_set = set(answer_cleaned.split("|"))
                 pred_set = set(res_cleaned.split("|"))
-
                 TP += len(true_set & pred_set)  
                 FP += len(pred_set - true_set)  
                 FN += len(true_set - pred_set)  
