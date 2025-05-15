@@ -19,7 +19,13 @@ This repository serves as an open-source repository for the **CCPG benchmark (PG
 ## 🧠 KEGA Framework
 <img src="Pictures/figure2.png" alt="figure2" border="0">
 
-## 📊 Overall Performance
+## 📊 Benchmark Results
+<img src="Pictures/table2.png" alt="table2" border="0">
+
+## ✨ KEGA Performance
+<img src="Pictures/table3.png" alt="table3" border="0">
+<img src="Pictures/table4.png" alt="table4" border="0">
+<img src="Pictures/table5.png" alt="table5" border="0">
 
 ## 📖 Usage
 You can implement our methods according to the following steps:
