@@ -8,15 +8,13 @@ This repository serves as an open-source repository for the **CCPG benchmark (PG
 
 ## 📂 Dataset Overview
 <img src="Pictures/table1.png" alt="table1" border="0">
+
 ### PG-Bench Dataset
 - **General.jsonl** - General Hospital Patient-Doctor Dialogue Guidance Dataset
 - **Gynecological.jsonl** - Gynecological Specialty Hospital Patient-Doctor Dialogue Guidance Dataset
 - **Pediatric.jsonl** - Pediatric Specialty Hospital Patient-Doctor Dialogue Guidance Dataset  
 - **Stomatological.jsonl** - Stomatological Specialty Hospital Patient-Doctor Dialogue Guidance Dataset
 - **TCM.jsonl** - TCM Specialty Hospital Patient-Doctor Dialogue Guidance Dataset
-
-⚠️ **Full Dataset Access**  
-The complete dataset `All_Datasets.jsonl` is available upon request.
 
 ## 🧠 KEGA Framework
 <img src="Pictures/figure2.png" alt="figure2" border="0">
