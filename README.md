@@ -3,11 +3,11 @@
 
 This repository serves as an open-source repository for the **CCPG benchmark (PG-Bench) and KEGA**, housing open-source datasets, model weights, and source code, and is the implementation of the paper "Advancing Conversation-based Chinese Patient Guidance with A New Benchmark and Knowledge-Evolvable Guidance Assistant".
 
-<img src="Pictures/figure1.png" alt="figure1" border="0">
+<img src="Doc/Pictures/figure1.png" alt="figure1" border="0">
 
 
 ## 📂 Dataset Overview
-<img src="Pictures/table1.png" alt="table1" border="0">
+<img src="Doc/Pictures/table1.png" alt="table1" border="0">
 
 ### PG-Bench Dataset
 - **General.jsonl** - General Hospital Patient-Doctor Dialogue Guidance Dataset
@@ -17,17 +17,17 @@ This repository serves as an open-source repository for the **CCPG benchmark (PG
 - **TCM.jsonl** - TCM Specialty Hospital Patient-Doctor Dialogue Guidance Dataset
 
 ## 🧠 KEGA Architecture
-<img src="Pictures/figure2.png" alt="figure2" border="0">
+<img src="Doc/Pictures/figure2.png" alt="figure2" border="0">
 
 ## 📊 Benchmark Results
 For more detailed benchmark results, please [Click here]()
-<img src="Pictures/table2.png" alt="table2" border="0">
+<img src="Doc/Pictures/table2.png" alt="table2" border="0">
 
 ## ✨ KEGA Performance
 For more detailed performance results, please [Click here]()
-<img src="Pictures/table3.png" alt="table3" border="0">
-<img src="Pictures/table4.png" alt="table4" border="0">
-<img src="Pictures/table5.png" alt="table5" border="0">
+<img src="Doc/Pictures/table3.png" alt="table3" border="0">
+<img src="Doc/Pictures/table4.png" alt="table4" border="0">
+<img src="Doc/Pictures/table5.png" alt="table5" border="0">
 
 ## 📖 Usage
 You can implement our methods according to the following steps:
