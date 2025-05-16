@@ -33,26 +33,26 @@ For more detailed performance results, please [Click here](Doc/Supplementary%20E
 You can implement our methods according to the following steps:
 
 1. Install the necessary packages. Run the command:
-   ```
+   ```shell
    pip install -r requirements.txt
    ```
 2. Install Swift to deploy models. Please [Click here](https://swift.readthedocs.io/zh-cn/latest/index.html)
 3. Run our code using Python.
    
-   Train the KEGA
-   ```
+   Train the KEGA:
+   ```shell
    python KEGA_train.py
    ```
-   Evaluate the KEGA
-   ```
+   Evaluate the KEGA:
+   ```shell
    python KEGA_test.py
    ```
-   Zero-Shot Testing
-   ```
+   Zero-Shot Testing:
+   ```shell
    python zeroshot.py
    ```
-   Few-Shot Testing
-   ```
+   Few-Shot Testing:
+   ```shell
    python fewshot.py
    ```
 
