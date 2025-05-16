@@ -20,11 +20,11 @@ This repository serves as an open-source repository for the **CCPG benchmark (PG
 <img src="Doc/Pictures/figure2.png" alt="figure2" border="0">
 
 ## 📊 Benchmark Results
-For more detailed benchmark results, please [Click here](Doc/Supplementary Experiments/README.md)
+For more detailed benchmark results, please [Click here](Doc/Supplementary%20Experiments/README.md)
 <img src="Doc/Pictures/table2.png" alt="table2" border="0">
 
 ## ✨ KEGA Performance
-For more detailed performance results, please [Click here](Doc/Supplementary Experiments/README.md)
+For more detailed performance results, please [Click here](Doc/Supplementary%20Experiments/README.md)
 <img src="Doc/Pictures/table3.png" alt="table3" border="0">
 <img src="Doc/Pictures/table4.png" alt="table4" border="0">
 <img src="Doc/Pictures/table5.png" alt="table5" border="0">
