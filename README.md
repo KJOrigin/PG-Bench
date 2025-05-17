@@ -1,4 +1,4 @@
-# CCPG Benchmark (PG-Bench) & KEGA 
+# CCPG Benchmark (PG-Bench) & Knowledge-Evolvable Assistant (KEA) 
 <p float="left"><img src="https://img.shields.io/badge/python-v3.9+-red"> <img src="https://img.shields.io/badge/pytorch-v2.6+-blue">
 
 This repository serves as an open-source repository for the **CCPG benchmark (PG-Bench) and Knowledge-Evolvable Assistant (KEA)**, housing open-source datasets, model weights, and source code, and is the implementation of the paper "Advancing Chinese Conversation-based Patient Guidance with a Benchmark and Knowledge-Evolvable Assistant".
