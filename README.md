@@ -16,14 +16,14 @@ This repository provides the official implementation of the paper **"Advancing C
 - **Stomatological.jsonl** - Stomatological Specialty Hospital Patient-Doctor Dialogue Guidance Dataset
 - **TCM.jsonl** - TCM Specialty Hospital Patient-Doctor Dialogue Guidance Dataset
 
-## 🧠 KEGA Architecture
+## 🧠 KEA Architecture
 <img src="Doc/Pictures/figure2.png" alt="figure2" border="0">
 
 ## 📊 Benchmark Results
 For more detailed benchmark results, please [Click here](Doc/Supplementary%20Experiments/README.md)
 <img src="Doc/Pictures/table2.png" alt="table2" border="0">
 
-## ✨ KEGA Performance
+## ✨ KEA Performance
 For more detailed performance results, please [Click here](Doc/Supplementary%20Experiments/README.md)
 <img src="Doc/Pictures/table3.png" alt="table3" border="0">
 <img src="Doc/Pictures/table4.png" alt="table4" border="0">
@@ -39,13 +39,13 @@ You can implement our methods according to the following steps:
 2. Install Swift to deploy models. Please [Click here](https://swift.readthedocs.io/zh-cn/latest/index.html)
 3. Run our code using Python.
    
-   Train the KEGA:
+   Train the KEA:
    ```shell
-   python KEGA_train.py
+   python KEA_train.py
    ```
-   Evaluate the KEGA:
+   Evaluate the KEA:
    ```shell
-   python KEGA_test.py
+   python KEA_test.py
    ```
    Zero-Shot Testing:
    ```shell
