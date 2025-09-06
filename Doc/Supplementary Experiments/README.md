@@ -17,3 +17,6 @@
 
 ## 👨‍⚖️ Human Evaluation
 <img src="Pictures/figure6.png" alt="figure6" border="0">
+
+## ⚖️ Human Evaluation Scoring Guidelines
+<img src="Pictures/scoring_guidelines.png" alt="scoring_guidelines" border="0">
