@@ -22,6 +22,8 @@ This repository provides the official implementation of the paper **"Advancing C
 ## 🧠 KEA Architecture
 <img src="Doc/Pictures/figure2.png" alt="figure2" border="0">
 
+**For more detailed experimental results, please [Click here](Doc/Supplementary%20Experiments/README.md)**
+
 ## 📊 Benchmark Results
 For more detailed benchmark results, please [Click here](Doc/Supplementary%20Experiments/README.md)
 <img src="Doc/Pictures/table2.png" alt="table2" border="0">
