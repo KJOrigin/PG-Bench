@@ -27,6 +27,7 @@ This repository provides the official implementation of the paper **"Advancing C
 ## 📊 Benchmark Results
 <img src="Doc/Pictures/table2.png" alt="table2" border="0">
 
+For comprehensive details on all baseline models, please [Click here.](Doc/Supplementary%20Experiments/Baseline.md)
 For more detailed benchmark results, please [Click here.](Doc/Supplementary%20Experiments/README.md)
 
 ## ✨ KEA Performance
@@ -69,7 +70,7 @@ You can implement our methods according to the following steps:
    ```shell
    pip install -r requirements.txt
    ```
-2. Install Swift to deploy models. Please [Click here](https://swift.readthedocs.io/zh-cn/latest/index.html)
+2. Install Swift to deploy models. Please [Click here.](https://swift.readthedocs.io/zh-cn/latest/index.html)
 3. Run our code using Python.
    
    Train the KEA:
