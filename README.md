@@ -54,8 +54,9 @@ For more detailed performance results, please [Click here](Doc/Supplementary%20E
 <img src="Doc/Pictures/prompt5.png" alt="prompt5" border="0">
 
 ## 🏥 Departments List
+- Description of the List of Subordinate Departments within the PG-Bench Dataset Subsets.
 <img src="Doc/Pictures/list.png" alt="list" border="0">
-Description of the List of Subordinate Departments within the PG-Bench Dataset Subsets.
+
 
 ## 📖 Usage
 You can implement our methods according to the following steps:
