@@ -22,19 +22,19 @@ This repository provides the official implementation of the paper **"Advancing C
 ## 🧠 KEA Architecture
 <img src="Doc/Pictures/figure2.png" alt="figure2" border="0">
 
-**For more detailed experimental results, please [Click here](Doc/Supplementary%20Experiments/README.md)**
+**For more detailed experimental results, please [Click here!](Doc/Supplementary%20Experiments/README.md)**
 
 ## 📊 Benchmark Results
 <img src="Doc/Pictures/table2.png" alt="table2" border="0">
 
-For more detailed benchmark results, please [Click here](Doc/Supplementary%20Experiments/README.md)
+For more detailed benchmark results, please [Click here.](Doc/Supplementary%20Experiments/README.md)
 
 ## ✨ KEA Performance
 <img src="Doc/Pictures/table3.png" alt="table3" border="0">
 <img src="Doc/Pictures/table4.png" alt="table4" border="0">
 <img src="Doc/Pictures/table5.png" alt="table5" border="0">
 
-For more detailed performance results, please [Click here](Doc/Supplementary%20Experiments/README.md)
+For more detailed performance results, please [Click here.](Doc/Supplementary%20Experiments/README.md)
 
 ## 🔍 Case Study
 - A case study of KEA utilizing EKP to recommend the appropriate department. EKP: Evolving Knowledge Pool.
