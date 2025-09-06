@@ -33,9 +33,11 @@ For more detailed performance results, please [Click here](Doc/Supplementary%20E
 <img src="Doc/Pictures/table5.png" alt="table5" border="0">
 
 ## 📝 Prompt Templates
-<img src="Doc/Pictures/table3.png" alt="table3" border="0">
-<img src="Doc/Pictures/table4.png" alt="table4" border="0">
-<img src="Doc/Pictures/table4.png" alt="table4" border="0">
+<img src="Doc/Pictures/prompt1.png" alt="prompt1" border="0">
+<img src="Doc/Pictures/prompt2.png" alt="prompt2" border="0">
+<img src="Doc/Pictures/prompt3.png" alt="prompt3" border="0">
+<img src="Doc/Pictures/prompt4.png" alt="prompt4" border="0">
+<img src="Doc/Pictures/prompt5.png" alt="prompt5" border="0">
 ## 📖 Usage
 You can implement our methods according to the following steps:
 
