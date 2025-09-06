@@ -32,6 +32,10 @@ For more detailed performance results, please [Click here](Doc/Supplementary%20E
 <img src="Doc/Pictures/table4.png" alt="table4" border="0">
 <img src="Doc/Pictures/table5.png" alt="table5" border="0">
 
+## 📝 Prompt Templates
+<img src="Doc/Pictures/table3.png" alt="table3" border="0">
+<img src="Doc/Pictures/table4.png" alt="table4" border="0">
+<img src="Doc/Pictures/table4.png" alt="table4" border="0">
 ## 📖 Usage
 You can implement our methods according to the following steps:
 
