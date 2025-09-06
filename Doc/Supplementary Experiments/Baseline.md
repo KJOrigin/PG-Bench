@@ -1,3 +1,5 @@
+## 📏Baseline
+
 **GPT-3.5-turbo/GPT-4o**: Developed by OpenAI, GPT-3.5-turbo is an optimized GPT-3.5 variant for efficient inference with strong natural language understanding and generation capabilities. GPT-4o, the latest in the GPT series, advances reasoning and contextual understanding, setting a high benchmark for complex NLP tasks. Both models were accessed via OpenAI’s API for our experiments.
 
 **DeepSeek-V3/DeepSeek-R1**: DeepSeek-V3 is a general-purpose language model excelling in text generation, summarization, and question answering, with strong generalization and contextual understanding. DeepSeek-R1, optimized for multi-step reasoning, is pre-trained on synthetic chain-of-thought data and fine-tuned via reinforcement learning. It is released in both full and distilled versions. We evaluated DeepSeek-V3 and DeepSeek-R1-Distill-Qwen-32B via commercial APIs.
@@ -33,5 +35,6 @@
 **Sunsimiao-7B**: Developed by X-D Lab, Sunsimiao-7B is a Chinese medical large language model designed to provide accurate medical consultations and diagnostic support. It is fine-tuned on extensive Chinese medical datasets and achieves excellent performance on the CMB-Exam benchmark, with notable accuracy in national medical licensing exams.
 
 **HuatuoGPT-o1-7B**: Developed by The Chinese University of Hong Kong and  Shenzhen Research Institute of Big Data, based on Qwen2.5-7B. It excels in complex medical reasoning by generating detailed thought processes before providing answers. The model outperforms both general-purpose and medical-specific LLMs in benchmarks, showcasing advanced reasoning capabilities.
+
 
 **WiNGPT2-Gemma-2-9B-Chat**: Developed by Winning Health. It offers human-like AI doctor consultations and general medical knowledge Q&A for the public, while providing diagnostic, medication, and health advice suggestions for healthcare professionals.
