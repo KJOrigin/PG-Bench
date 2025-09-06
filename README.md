@@ -40,12 +40,16 @@ For more detailed performance results, please [Click here](Doc/Supplementary%20E
 ## 📝 Prompt Templates
 - PG-Bench Dataset Construction Template and Prompt Instructions.
 <img src="Doc/Pictures/prompt1.png" alt="prompt1" border="0">
+
 - System Prompt Instructions for PG-Bench.
 <img src="Doc/Pictures/prompt2.png" alt="prompt2" border="0">
+
 - System Prompt Instructions for KEA.
 <img src="Doc/Pictures/prompt3.png" alt="prompt3" border="0">
+
 - Reflection Process Prompt Instructions for KEA.
 <img src="Doc/Pictures/prompt4.png" alt="prompt4" border="0">
+
 - Reflection-Based Response Prompt Instructions for KEA.
 <img src="Doc/Pictures/prompt5.png" alt="prompt5" border="0">
 
