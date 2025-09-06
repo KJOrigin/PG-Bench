@@ -33,20 +33,21 @@ For more detailed performance results, please [Click here](Doc/Supplementary%20E
 <img src="Doc/Pictures/table5.png" alt="table5" border="0">
 
 ## 🔍 Case Study
+- A case study of KEA utilizing EKP to recommend the appropriate department. EKP: Evolving Knowledge Pool.
 <img src="Doc/Pictures/casestudy.png" alt="casestudy" border="0">
-A case study of KEA utilizing EKP to recommend the appropriate department. EKP: Evolving Knowledge Pool.
+
 
 ## 📝 Prompt Templates
 <img src="Doc/Pictures/prompt1.png" alt="prompt1" border="0">
-PG-Bench Dataset Construction Template and Prompt Instructions.
+- PG-Bench Dataset Construction Template and Prompt Instructions.
 <img src="Doc/Pictures/prompt2.png" alt="prompt2" border="0">
-System Prompt Instructions for PG-Bench.
+- System Prompt Instructions for PG-Bench.
 <img src="Doc/Pictures/prompt3.png" alt="prompt3" border="0">
-System Prompt Instructions for KEA.
+- System Prompt Instructions for KEA.
 <img src="Doc/Pictures/prompt4.png" alt="prompt4" border="0">
-Reflection Process Prompt Instructions for KEA.
+- Reflection Process Prompt Instructions for KEA.
 <img src="Doc/Pictures/prompt5.png" alt="prompt5" border="0">
-Reflection-Based Response Prompt Instructions for KEA.
+- Reflection-Based Response Prompt Instructions for KEA.
 
 ## 🏥 Departments List
 <img src="Doc/Pictures/list.png" alt="list" border="0">
