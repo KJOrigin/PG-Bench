@@ -40,7 +40,7 @@ For more detailed performance results, please [Click here.](Doc/Supplementary%20
 
 ## 🔍 Case Study
 - A case study of KEA utilizing EKP to recommend the appropriate department. EKP: Evolving Knowledge Pool.
-<img src="Doc/Pictures/casestudy.png" alt="casestudy" border="0">
+<img src="Doc/Pictures/casestudy1.png" alt="casestudy1" border="0">
 
 
 ## 📝 Prompt Templates
