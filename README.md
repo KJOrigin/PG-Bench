@@ -102,5 +102,6 @@ If you find **PG-Bench** or **KEA** useful in your research, please consider cit
   year={2025},
   publisher={IEEE}
 }
+```
 
 ## 🌟 Contributions and suggestions are welcome!
