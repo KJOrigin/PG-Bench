@@ -91,4 +91,16 @@ You can implement our methods according to the following steps:
    python fewshot.py
    ```
 
+## 📌 Citation
+If you find **PG-Bench** or **KEA** useful in your research, please consider citing our paper:
+
+```bibtex
+@article{lu2025advancing,
+  title={Advancing Chinese Conversation-based Patient Guidance with a Benchmark and Knowledge-Evolvable Assistant},
+  author={Lu, Wenpeng and Liu, Kangjun and Wang, Jianlei and Peng, Xueping and Shen, Tao and Zhu, Fa and Zhang, Weiyu and Zhu, Jiabing and Xin, Tao and Vasilakos, Athanasios V},
+  journal={IEEE Journal of Biomedical and Health Informatics},
+  year={2025},
+  publisher={IEEE}
+}
+
 ## 🌟 Contributions and suggestions are welcome!
