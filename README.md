@@ -6,7 +6,7 @@
 
 This repository provides the official implementation of the paper **"Advancing Chinese Conversation-based Patient Guidance with a Benchmark and Knowledge-Evolvable Assistant."** It contains the open-source **PG-Bench dataset**, source code, experimental results, and usage instructions, supporting reproducible research and further development on the **CCPG benchmark (PG-Bench)** and the **Knowledge-Evolvable Assistant (KEA)**. *CCPG: Chinese Conversation-based Patient Guidance*.
 
-🎉🎉 **News**: Our paper *“Advancing Chinese Conversation-based Patient Guidance with a Benchmark and Knowledge-Evolvable Assistant”* has been accepted by **IEEE Journal of Biomedical and Health Informatics (JBHI)** (2025). [Paper](https://ieeexplore.ieee.org/document/11275664)
+🎉🎉 **News**: Our paper *“Advancing Chinese Conversation-based Patient Guidance with a Benchmark and Knowledge-Evolvable Assistant”* has been accepted by **IEEE Journal of Biomedical and Health Informatics (JBHI)** (2025). If you would like to view our paper, please [click here.](https://ieeexplore.ieee.org/document/11275664)
 
 <img src="Doc/Pictures/figure1.png" alt="figure1" border="0">
 
